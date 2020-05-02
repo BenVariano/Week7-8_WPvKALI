@@ -5,8 +5,11 @@ Pentesting
 Exploit 1
 
 Vulnerability Type: XSS
+
 Version: 4.2
+
 Patched in Version: 4.2.5
+
 Write Up: Using the plain text editor, we can create a post or page and insert HTML elements.
   1. Create a new page and insert your title
   2. In the plain text section, insert the following line:
