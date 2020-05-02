@@ -3,6 +3,7 @@ Week 7 & 8 – Kali vs Wordpress
 Pentesting
 
 Exploit 1
+
 Vulnerability Type: XSS
 Version: 4.2
 Patched in Version: 4.2.5
@@ -15,6 +16,7 @@ Write Up: Using the plain text editor, we can create a post or page and insert H
 ![](XSS1.gif)
 
 Exploit 2
+
 Vulnerability Type: XSS
 Version: 4.2
 Patched in Version: 4.7.5
@@ -26,6 +28,7 @@ Write Up: You can upload media that is too large to upload and inject and run ja
 ![](XSSMedia.gif)
 
 Exploit 3
+
 Vulnerability Type: User Enumeration
 Version: 4.2
 Patched in Version: N/A
@@ -35,6 +38,7 @@ Write Up: WordPress uses different login error messages which allows us to deter
 ![](enumerate.gif)
 
 Exploit 4
+
 Vulnerability Type: Login Vulnerability 
 Version: 4.2
 Patched in Version: N/A
